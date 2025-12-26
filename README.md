@@ -58,20 +58,22 @@ A collection of React components and mini-projects created while learning React 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratyush-95&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratyush-95&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-95&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-95&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
+
 
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratyush-95&theme=radical&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pratyush-95&theme=onedark&margin-w=15&margin-h=15" />
 </p>
+
 
 ---
 
