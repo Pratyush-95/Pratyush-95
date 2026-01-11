@@ -18,7 +18,7 @@ I am a passionate and self-motivated **Web Developer** who loves building clean,
 I enjoy converting ideas into real-world projects and continuously improving my development skills.
 
 - 🔭 Currently working on **Web Development projects**
-- 🌱 Learning **React, JavaScript, Express & MongoDB**
+- 🌱 Learning **React, JavaScript**
 - 🧠 Interested in **Full-Stack Development & Modern UI Design**
 - 💬 Ask me about **HTML, CSS, JavaScript**
 - ⚡ Fun fact: I enjoy building projects more than watching tutorials 😉
