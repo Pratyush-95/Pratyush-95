@@ -202,11 +202,9 @@ https://errortrackr.vercel.app
 - Applied **OOP and database design concepts**
 - Used Git for version control and collaborative development
 
----
 
 # 📈 What I'm Currently Focusing On
 
-```text
 MERN Stack
    │
    ├── Advanced React
@@ -218,58 +216,52 @@ MERN Stack
    ├── System Design
    └── Data Structures & Algorithms
 
----
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Pratyush-95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    alt="Pratyush's GitHub Stats"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Pratyush-95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Pratyush Kumar GitHub Stats"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-95&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-95&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Top Languages"
   />
 </p>
 
----
 
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Pratyush-95&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://streak-stats.demolab.com?user=Pratyush-95&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
----
-
 # 📈 GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyush-95&theme=tokyo-night&hide_border=true&area=true" 
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyush-95&theme=tokyo-night&hide_border=true&area=true"
     alt="GitHub Activity Graph"
   />
 </p>
 
----
 
 # 👀 Profile Views
 
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Pratyush-95&label=Profile%20Views&color=243B55&style=for-the-badge" 
+  <img
+    src="https://komarev.com/ghpvc/?username=Pratyush-95&label=Profile%20Views&color=243B55&style=for-the-badge"
     alt="Profile Views"
   />
 </p>
 
----
 
 <h3 align="center">
   🚀 Building. Learning. Shipping.
@@ -278,4 +270,3 @@ MERN Stack
 <p align="center">
   <i>Always learning, always improving.</i>
 </p>
-                                                                                                                                                                                                               
