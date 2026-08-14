@@ -216,14 +216,66 @@ MERN Stack
    ├── Redis & Caching
    ├── Docker & CI/CD
    ├── System Design
-   └── Data Structures & Algorithms                                                                                                                                                                                                                        📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pratyush-95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-95&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Pratyush-95&theme=tokyonight&hide_border=true" /> </p>
-🌐 My Portfolio
-<p align="center"> <a href="https://pratyush95.vercel.app"> <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-243B55?style=for-the-badge" /> </a> </p>
-📫 Let's Connect
-<p align="center"> <a href="mailto:pratyush5263@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/pratyush-kumar-2751162a6"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Pratyush-95"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://pratyush95.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pratyush-95&label=Profile%20Views&color=243B55&style=flat" /> </p> <h3 align="center"> 💻 Build. Learn. Improve. Repeat. 🚀 </h3> <p align="center"> ⭐ Thanks for visiting my profile! </p> ```
+   └── Data Structures & Algorithms
 
-Ye version tumhare GitHub profile README ke liye zyada strong hai, kyunki isme sirf generic “MERN learner” nahi hai, balki resume se actual StudyNotion, ErrorTrackr, Redis, Docker, CI/CD, JWT, OAuth, security, Azure certification aur Coding Blocks experience highlight ho raha hai.
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Pratyush-95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="Pratyush's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-95&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Pratyush-95&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyush-95&theme=tokyo-night&hide_border=true&area=true" 
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Pratyush-95&label=Profile%20Views&color=243B55&style=for-the-badge" 
+    alt="Profile Views"
+  />
+</p>
+
+---
+
+<h3 align="center">
+  🚀 Building. Learning. Shipping.
+</h3>
+
+<p align="center">
+  <i>Always learning, always improving.</i>
+</p>
+                                                                                                                                                                                                               
